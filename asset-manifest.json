@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vocabulary_words_react/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/vocabulary_words_react/static/js/main.f05eab69.chunk.js",
+    "main.js.map": "/vocabulary_words_react/static/js/main.f05eab69.chunk.js.map",
+    "runtime-main.js": "/vocabulary_words_react/static/js/runtime-main.ea97729b.js",
+    "runtime-main.js.map": "/vocabulary_words_react/static/js/runtime-main.ea97729b.js.map",
+    "static/js/2.05f218e0.chunk.js": "/vocabulary_words_react/static/js/2.05f218e0.chunk.js",
+    "static/js/2.05f218e0.chunk.js.map": "/vocabulary_words_react/static/js/2.05f218e0.chunk.js.map",
+    "static/js/3.14e55df4.chunk.js": "/vocabulary_words_react/static/js/3.14e55df4.chunk.js",
+    "static/js/3.14e55df4.chunk.js.map": "/vocabulary_words_react/static/js/3.14e55df4.chunk.js.map",
+    "index.html": "/vocabulary_words_react/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/vocabulary_words_react/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.05f218e0.chunk.js.LICENSE.txt": "/vocabulary_words_react/static/js/2.05f218e0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/vocabulary_words_react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea97729b.js",
+    "static/js/2.05f218e0.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.f05eab69.chunk.js"
+  ]
+}
